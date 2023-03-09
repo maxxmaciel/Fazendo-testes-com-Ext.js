@@ -191,3 +191,14 @@ Ext.onReady(function () {
 // });
 
 // poo e herança
+/* 
+Ext.loader.setConfig({
+  enabled: true,
+  paths: {
+    'CursoExt4': 'js',
+    'Ext4': 'extjs/src'
+
+  }
+})  */// confirgurar os paths do loader example 
+
+//Ext.require("example") Serve para salver uma classe em memória
